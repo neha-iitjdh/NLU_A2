@@ -1,0 +1,192 @@
+QUALITATIVE ANALYSIS - CHARACTER-LEVEL NAME GENERATION
+============================================================
+
+
+========================================
+Vanilla RNN
+========================================
+
+All generated samples:
+  1. Bhavani Chopra
+  2. Sukhdeep Bedi
+  3. Jhanvi Jansal
+  4. Surish Patil
+  5. Yogesh Khanna
+  6. Akanksha Sangwan
+  7. Reema Chawla
+  8. Suresh Bhatt
+  9. Chitra Bhat
+  10. Aninush Bhat
+  11. Ashish Rao
+  12. Sudha Bhatia
+  13. Harendmar Khanna
+  14. Gayana Gora
+  15. Pratima Menon
+  16. Sudha Bhatia
+  17. Shivam Tiwari
+  18. Sruti Sehgal
+  19. Ranveer Mittal
+  20. Ayaan Sangwan
+  21. Anari Banerjee
+  22. Gayati Chawla
+  23. Parnav Tanwar
+  24. Sukhsh Singh
+  25. Ishan Khanna
+  26. Anika Kapoor
+  27. Pradeep Bose
+  28. Rishesh Srivastava
+  29. Isha Tiwari
+  30. Urvashi Malwat
+  31. Anaya Cwat
+  32. Sukhdeep Bona
+  33. Shankar Malhotra
+  34. Ranveer Bhat
+  35. Aditya Bosha
+  36. Anirudh Prasad
+  37. Ranveer Bhati
+  38. Chital Roy
+  39. Dipti Dhawla
+  40. Shanni Chawla
+  41. Ishan Krishnamurthy
+  42. Divya Jadeja
+  43. Rajveer Dhawan
+  44. Mansi Shah
+  45. Hitesh Singh
+  46. Sukhdeep Deshpande
+  47. Aaradhya Gogoi
+  48. Shanaya Raval
+  49. Mana Goyal
+  50. Prakash Pati
+
+Structure breakdown:
+  well-formed: 50/50
+
+Failure modes:
+
+========================================
+BLSTM
+========================================
+
+All generated samples:
+  1. Hogopy
+  2. EZdh Sell
+  3. Zyppedm Jeggul
+  4. Dvesh Jedd
+  5. Pppasa Mub
+  6. Krawax Twwra
+  7. Ugdep Iukh
+  8. Uddppgwwwwak
+  9. Nicndda YipM
+  10. Mepggdi MupDkkia Jil
+  11. J V
+  12. Jep Va Jotho
+  13. Yook
+  14. Yada Gaundre
+  15. E
+  16. SSSwama JepJi
+  17. Zokas Jita Kogu Jaajje
+  18. Vaske Bandi
+  19. Lubh Singund
+  20. SS Dn
+  21. SShubepi
+  22. Jeddl Dwwwan
+  23. Jeedda He
+  24. DDppi Jegoki
+  25. Eoddi Swwlpepa
+  26. Feptike
+  27. Ta Malask
+  28. Ehrepp Vik
+  29. Uxn Sogogg
+  30. Feh Nippegde
+  31. Seh Shappog
+  32. Sesh Tukl
+  33. Ghan Sulwwwwwl
+  34. Ni Chajpai
+  35. Lupj
+  36. Subes Punddu
+  37. Vimmi DeneHe
+  38. ESSSSwwsh Swwi Vy
+  39. Rijnggwwwl
+  40. ApKrikn Diw
+  41. Heggwi Ji
+  42. Palwi Jegg Jeggga
+  43. Gali
+  44. Yunduk Shol
+  45. Swlel Muppirb
+  46. Zokh Vyegg Pi
+  47. Om Bhul
+  48. Y
+  49. Shel Seeng
+  50. Nilpi Sokung
+
+Structure breakdown:
+  multi-word: 6/50
+  partial: 8/50
+  single-word: 10/50
+  well-formed: 26/50
+
+Failure modes:
+  repeated_chars: 7/50
+  no_space: 10/50
+  too_short: 2/50
+
+========================================
+RNN + Attention
+========================================
+
+All generated samples:
+  1. Alpesh Roy
+  2. Pallavi Nair
+  3. Manveer Yadav
+  4. Advakha Garg
+  5. Abhishek Arora
+  6. Juhi Chauhan
+  7. Advaith Chopra
+  8. Shubham Prasad
+  9. Urvashi Hooda
+  10. Darshan Nigam
+  11. Argi Roy
+  12. Reema Chawla
+  13. Nikita Chatha
+  14. Atharva Mehra
+  15. Kiara Hooda
+  16. Siddharth Murthy
+  17. Arjutha Chawla
+  18. Zari Nair
+  19. Rideha Chopra
+  20. Nikita Solanki
+  21. Maveena Upadhyay
+  22. Ravindra Malhotra
+  23. Neram Prasad
+  24. Abhishek Roy
+  25. Sudhin Sangwan
+  26. Siddharha Dutta
+  27. Manoj Hegde
+  28. Bharat Garg
+  29. Jaya Goyal
+  30. Pankaj Bhatt
+  31. Neeraj Gowda
+  32. Ishaan Parmar
+  33. Ranveer Sangwan
+  34. Rishabh Pandey
+  35. Pushkar Dutta
+  36. Ravi Jishshwari
+  37. Aaradhya Agarwal
+  38. Kamal Banar
+  39. Mukesh Nair
+  40. Gouri Shetty
+  41. Saraswati Prasad
+  42. Bhavna Khanna
+  43. Sukhdeep Goyal
+  44. Sukhdeep Barman
+  45. Bhishan Khandelwal
+  46. Gautam Malendra
+  47. Saraswati Yodel
+  48. Sudhir Deshpande
+  49. Vartika Chauhan
+  50. Aninash Banerjee
+
+Structure breakdown:
+  well-formed: 50/50
+
+Failure modes:

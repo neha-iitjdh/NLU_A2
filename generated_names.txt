@@ -1,0 +1,66 @@
+
+--- vanilla_rnn ---
+Rishabh Rathore
+Kalpana Kamath
+Shankar Raval
+Bharat Kalita
+Pavan Gupta
+Mohan Pal
+Dipti Hagderjee
+Unaa Kapoor
+Sourav Mehra
+Vikram Tiwari
+Anirudh Dhawan
+Aparna Mehra
+Anirudh Hegde
+Rajveer Shukla
+Suresh Khanna
+Ranveer Shah
+Deepika Chatterjee
+Shekhar Shetty
+Pranav Yada
+Uma Chaudhary
+
+--- blstm ---
+Freubept Kupta Khowwwri
+Jepage
+Thok Shukkal
+Vidd
+NNikuud
+Vyeg Swww
+Gajen Jy
+Ipeep SSwwabe
+Selpi Sulpre
+Aiya Srondi
+Shubesh Gol
+Swal
+Eesh Meggo
+Eoori Jajept
+KKulpa Seepis
+Iresh Swod
+Jeddda Tlwwwe
+Kul
+Gaggok Shoky
+Nikkl
+
+--- attention_rnn ---
+Sudhir Barman
+Manva Malik
+Urvashi Rao
+Sandeep Srivastava
+Pankaj Chopra
+Avinash Panchal
+Rajveer Tanwar
+Dahuni Upadhyay
+Advik Tanwar
+Khushi Sangwan
+Shivam Tandon
+Sudhir Malhotra
+Atharva Garg
+Arti Agarwal
+Shivam Barman
+Aaradhya Pal
+Aditi Patil
+Pankaj Tanwar
+Darshita Nair
+Pavi Desai

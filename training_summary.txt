@@ -1,0 +1,21 @@
+WORD2VEC TRAINING SUMMARY
+==================================================
+
+Corpus: 17 documents
+Epochs: 30
+Min count: 2
+
+Model        Dim    Window   NegSamp  Vocab   
+------------------------------------------
+CBOW         50     3        5        3305    
+CBOW         50     5        5        3305    
+CBOW         100    3        5        3305    
+CBOW         100    5        5        3305    
+CBOW         100    5        10       3305    
+CBOW         200    5        5        3305    
+Skip-gram    50     3        5        3305    
+Skip-gram    50     5        5        3305    
+Skip-gram    100    3        5        3305    
+Skip-gram    100    5        5        3305    
+Skip-gram    100    5        10       3305    
+Skip-gram    200    5        5        3305    

@@ -1,0 +1,320 @@
+QUANTITATIVE EVALUATION RESULTS
+============================================================
+
+Number of generated names per model: 100
+Training set size: 1000
+
+Model                Novelty         Diversity       Params      
+--------------------------------------------------------------
+Vanilla RNN          0.7900         0.9900         28947
+BLSTM                1.0000         1.0000         58387
+RNN + Attention      0.7500         0.9900         68371
+
+
+--- Vanilla RNN (all 100 names) ---
+  Krishan Gokhale
+  Sandeep Upadhyay
+  Shubham Dahiya
+  Rajveer Shat
+  Deepika Hooda
+  Ganesh Patil
+  Jyoti Desai
+  Anaya Hazarika
+  Bharati Khandelwal
+  Rishabh Rao
+  Namindi Hooda
+  Yashna Bhat
+  Preeti Patel
+  Teshash Mondal
+  Poonam Bansal
+  Akar Gomal
+  Ganga Gokhale
+  Ahana Dhawan
+  Usha Verma
+  Chitra Bose
+  Vivaan Pathak
+  Siddhartha Joshi
+  Gayana Bansal
+  Sakshi Hegde
+  Surithav Shahma
+  Preeti Chatterjee
+  Jaya Vyas
+  Sudhir Tanwar
+  Kalan Chaudhary
+  Ganesh Trivedi
+  Pradeep Bose
+  Anirudh Krishnamurthy
+  Chital Pillai
+  Rajesh Bhatt
+  Aditi Tandon
+  Sara Krishnamurthy
+  Ganga Patel
+  Pranav Tanwar
+  Darshan Bhati
+  Sudha Kamath
+  Gauri Shetty
+  Jikam Barman
+  Pranav Shekhawat
+  Alpesh Shekhawat
+  Kanshatt Dahiya
+  Manesh Solanki
+  Poara Naidu
+  Pranav Shekhawat
+  Pallavi Sangwan
+  Anirudh Pain
+  Ganga Vyas
+  Ranveer Patil
+  Ranveer Khandelwal
+  Aarabhi Grover
+  Siddhartha Nair
+  Anavya Mahenje
+  Alpesh Sharma
+  Anara Shetty
+  Saurabh Gokhale
+  Pavan Saini
+  Pratima Kapoor
+  Nandila Bhat
+  Narendra Kumar
+  Ajay Gokhale
+  Shubham Dutta
+  Deepak Hegde
+  Pratima Upadhyay
+  Gunveer Kapoor
+  Atharva Menon
+  Neelam Gowda
+  Tanuja Bhat
+  Ashush Pal
+  Rajendra Trivedi
+  Manveer Khandelwal
+  Arjun Bhatia
+  Harish Parmar
+  Gautam Chaturvedi
+  Sunil Thakur
+  Nikita Solanki
+  Durga Grover
+  Sukhdeep Bedi
+  Ravindra Dwadil
+  Sonali Swamy
+  Bharti Sangwan
+  Sunvi Pathak
+  Pratima Saxena
+  Reshma Nair
+  Anirudh Dhawan
+  Darshan Mittal
+  Nikima Chopra
+  Suresh Malhotra
+  Mansi Kamath
+  Ravi Mittal
+  Palla Tandon
+  Darsh Arora
+  Manjit Bhatia
+  Aadhya Dwivedi
+  Jyoti Rathi
+  Sagar Bhat
+  Roshan Deshpande
+
+
+--- BLSTM (all 100 names) ---
+  Anddee
+  Um
+  YDga Solike
+  Feikl Jadu
+  Fepik Soma Sogut
+  Eo SSw
+  SSabel DDkkik Goo
+  Pubme Tal
+  S Heggand
+  Jej Kubelk
+  F Rogow
+  Feepes
+  Dpillpa
+  Uduy
+  Hhukha PaswwVo
+  SSwal
+  Jeesh Tha
+  Iupjei Jepajji
+  Fosh Nigge
+  Iash Jesh SSeppegg
+  Vyogg Dwwww
+  Kubhi Tupbe
+  Mubejj Jubhri
+  Fkhal Tha Jaxhee
+  Kubhik Vagg
+  SSubes
+  Jeep Soohi
+  RoGdi
+  Shaya Jesjprki
+  E
+  Feesh Mupta
+  Viesha Jishtel
+  Hw
+  Zouty
+  Zou I
+  JekepJa Sel
+  Ece G
+  Eowad
+  Tggeppee
+  VazHin Udepi
+  Skkhr Tukga
+  Tri Twti
+  Ypan Yukh
+  FepgokY Sakneep
+  Jya Pax
+  Hdesh Sehgg
+  SSha Kogip
+  Hepa Vhoo
+  Fehpek Rogo
+  JyakD Eogxa Allhok
+  SSwwwal
+  Koti Segte
+  Jeppi Shwwwy
+  Ud Muprik
+  SShal
+  JlpKpe Taze
+  Kubeppi Jewl
+  J Shoshnep
+  Zi Dubedde
+  Akkajjee
+  SSukn Nazude
+  VipJesh Heesh
+  SSalpea Doga Mekangw
+  Zi P
+  Kube
+  Fokh Penge
+  Shi Maji
+  Jikaddda
+  Jingo
+  Sa Gaxgo
+  Jegje Mell
+  Uccj Jerjpubh Kul Twwwwwr
+  JJJenddepa
+  HYokag
+  H
+  Ton
+  Feepjen
+  Hlev UdH
+  Fengom Tra
+  Ferom Dww
+  Vyabep Jyadnej
+  Vit Jagu
+  IUgi Dww
+  Jrosh
+  Jeep Nigg
+  Yube
+  SoTl
+  VikYDwSShi Meshx
+  Ubendeje
+  S Sohog
+  SSreen Yood
+  DDw
+  Japjed
+  Ech PYogggwan
+  Roudde
+  Aggoun Yoga
+  Fioz
+  Yobhu Teep
+  Shubi Troe
+  Sich Regok
+
+
+--- RNN + Attention (all 100 names) ---
+  Rishabh Goyal
+  Rajendra Dhawan
+  Shubham Desai
+  Jaya Pal
+  Reshma Reddy
+  Akanmya Saini
+  Gaurav Parmar
+  Aaradhya Goyal
+  Manvi Sangwan
+  Chandana Tandon
+  Jyoti Bajpai
+  Avinash Kelwal
+  Darshan Mittal
+  Mohit Shetty
+  Rajendra Sangwan
+  Jagjit Shetty
+  Arjun Rey
+  Gaita Bhati
+  Ravindra Kapoor
+  Anirudh Banerjee
+  Pavan Pal
+  Kamala Pandey
+  Arvanti Mehra
+  Manjit Malajik
+  Shilpa Bhatt
+  Khushi Pal
+  Kabar Nair
+  Khushi Parmar
+  Gautima Bedi
+  Aurabha Banerjee
+  Amir Chatterjee
+  Rachna Singh
+  Aishwarya Desai
+  Bhupendra Shah
+  Rajesh Menon
+  Devenga Anand
+  Mahesh Banerjee
+  Manjit Garg
+  Avinash Sen
+  Laksheer Khanna
+  Rajendra Saenon
+  Anisha Tanwar
+  Harini Chauhan
+  Devesh Bhatia
+  Neelam Kamath
+  Kabir Tanwar
+  Alpesh Kulkarni
+  Khushi Malik
+  Alpesh Bose
+  Anaya Kalita
+  Gautam Patel
+  Satendra Kumar
+  Subhash Chauhan
+  Atharva Mehra
+  Ravindra Banerjee
+  Arjunti Roy
+  Chhaya Shetha
+  Pankaj Sangwan
+  Paramjit Ghosh
+  Rusha Hazarika
+  Ganga Arora
+  Kalpana Solanki
+  Yashoda Kapoor
+  Kuldeep Anand
+  Devoar Patil
+  Arjun Bhati
+  Sandeep Bedi
+  Abhishek Dutta
+  Kalpana Banerjee
+  Ankita Pathak
+  Avaya Malik
+  Kubali Prasad
+  Devoa Anandwar
+  Rajendra Parmar
+  Jagjit Banerjee
+  Prisha Bedi
+  Sushal Srivastava
+  Nanra Mathi
+  Sudhir Pathak
+  Kalpana Kapoor
+  Sudhir Malhotra
+  Chinmay Gogoi
+  Anika Iyengar
+  Aishwarya Gogoi
+  Kelpane Gargur
+  Sukrdeep Bedi
+  Ajit Banerjee
+  Shalini Upadhyay
+  Varesh Pillai
+  Aaradhya Goyal
+  Karthik Srivastava
+  Adha Rao
+  Navya Agarwal
+  Satendra Prasad
+  Ayaan Pathak
+  Naresh Arora
+  Varesh Rathore
+  Kanaya Pandel
+  Arjun Rao
+  Mahendra Sangwan

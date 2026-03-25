@@ -1,0 +1,59 @@
+DATASET STATISTICS - IIT JODHPUR CORPUS
+==================================================
+
+Sources used:
+  - 1_Academic_Regulations_Final_03_09_2019.pdf
+  - Academic-Calendar-AY-202526SemI2-with-CCCD-events-638871414539740843.pdf
+  - CSE-Courses-Details.pdf
+  - Curriculum-MTechMTech-PhDPhD-AIAY2021Onwards.pdf
+  - Curriculum-MTechMTech-PhDPhD-CSEAY2021Onwards.pdf
+  - Detailed-curriculum-for-MTech-AI-AY-2025-onwards-639053782336374627.pdf
+  - Detailed-curriculum-for-MTech-CSE-AY-2025-onwards-639053782130026932.pdf
+  - Campus Life _ Office of Students _ IIT Jodhpur.html
+  - Computer Science & Engineering _ IIT Jodhpur.html
+  - Home _ Ignus 2026.html
+  - Indian Institute of Technology Jodhpur _ IIT Jodhpur.html
+  - Office of Students _ IIT Jodhpur.html
+  - Student Achievements _ Computer Science & Engineering _ IIT Jodhpur.html
+  - acts-statutes.htm
+  - history.htm
+  - institute-reports.htm
+  - introduction.htm
+  - vision-and-mission.htm
+
+Total documents:  17
+Total tokens:     54147
+Vocabulary size:  5969
+Avg tokens/doc:   3185.1
+
+Top 30 most frequent words (excluding stopwords):
+  lectures: 683
+  course: 475
+  learning: 401
+  data: 371
+  tech: 365
+  students: 328
+  computer: 297
+  student: 279
+  science: 254
+  design: 236
+  algorithms: 231
+  engineering: 229
+  systems: 207
+  department: 197
+  introduction: 196
+  elective: 189
+  networks: 187
+  level: 168
+  ph: 165
+  semester: 164
+  courses: 160
+  applications: 154
+  research: 153
+  edition: 149
+  xx: 143
+  degree: 139
+  computing: 138
+  machine: 136
+  ai: 135
+  program: 134
